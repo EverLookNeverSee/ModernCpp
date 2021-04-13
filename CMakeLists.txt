@@ -3,4 +3,4 @@ project(ModernCpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(ModernCpp main.cpp)
+add_executable(ModernCpp Ex1_01.cpp)
