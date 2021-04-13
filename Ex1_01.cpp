@@ -6,5 +6,7 @@
 using namespace std;
 
 int main(){
+    // Defining answer with value 42
+    int answer {42};
     return 0;
 }
