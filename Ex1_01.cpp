@@ -8,5 +8,6 @@ using namespace std;
 int main(){
     // Defining answer with value 42
     int answer {42};
+    cout << "The answer to life, the universe and everything is " << answer << endl;
     return 0;
 }
