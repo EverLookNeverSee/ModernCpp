@@ -2,3 +2,5 @@
 // A complete C++ program
 
 #include <iostream>
+
+using namespace std;
